@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+# TCM-BO — Traditional Chinese Medicine Body-structure Ontology
+# Maintainers: [NAME] (GitHub: [GITHUB-ID])
+# Replace <GITHUB_ORG> with the actual GitHub org/user before submitting the PR.
+
+RewriteRule ^ontology/1\.9\.17/?$ https://raw.githubusercontent.com/<GITHUB_ORG>/TCM-BO/v1.9.17/ontology/TCM_BO_1.9.17.owl [R=302,L]
+RewriteRule ^ontology/?$ https://raw.githubusercontent.com/<GITHUB_ORG>/TCM-BO/main/ontology/TCM_BO_1.9.17.owl [R=302,L]
+RewriteRule ^/?$ https://github.com/<GITHUB_ORG>/TCM-BO [R=302,L]
