@@ -6,13 +6,37 @@ date-released: 2026-09-03
 license: CC-BY-4.0
 url: "http://OntoTCM.org.cn/ontologies/TCM_TO"
 identifiers:
+  - description: "Zenodo archive DOI of release 1.9.17"
+    type: doi
+    value: "10.5281/zenodo.22638644"
   - description: "Version IRI of this release"
     type: url
     value: "http://OntoTCM.org.cn/ontologies/TCM_TO/1.9.17"
 authors:
-  - family-names: "[To be completed]"
-    given-names: "[To be completed]"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Chen"
+    given-names: "Chao"
+    affiliation: "Institute of Information on Traditional Chinese Medicine, China Academy of Chinese Medical Sciences"
+    email: "chenchao_0727@163.com"
+  - family-names: "Chen"
+    given-names: "Zehui"
+    affiliation: "Institute of Information on Traditional Chinese Medicine, China Academy of Chinese Medical Sciences"
+    email: "zehuijzl01@163.com"
+  - family-names: "Hao"
+    given-names: "Yu-Lin"
+    affiliation: "Beijing Friendship Hospital, Capital Medical University"
+    email: "15510285695@163.com"
+  - family-names: "Han"
+    given-names: "Zheji"
+    affiliation: "China Academy of Chinese Medical Sciences"
+    email: "hanzheji0410@163.com"
+  - family-names: "Hou"
+    given-names: "Weixin"
+    affiliation: "Peking Union Medical College Hospital, Chinese Academy of Medical Sciences"
+    email: "hwx0111@163.com"
+  - family-names: "Lei"
+    given-names: "Lei"
+    affiliation: "Institute of Information on Traditional Chinese Medicine, China Academy of Chinese Medical Sciences"
+    email: "leilei@mail.cintcm.ac.cn"
 keywords:
   - traditional Chinese medicine
   - ontology
