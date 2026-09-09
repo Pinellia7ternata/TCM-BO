@@ -31,4 +31,6 @@ MD5 values let a reader confirm that a downloaded copy matches what was deposite
 | 24 | `TCM-BO/w3id/.htaccess` | 1,137 | `06a58c52577b3472514d7841adbfefe1` |
 | 25 | `TCM-BO/w3id/README.md` | 1,916 | `61d0a97b004bc27a81c8f5b6e4ecc973` |
 
-**Total: 25 files, 5,007,103 bytes.**
+**Total: 25 files listed above (26 files in the archive including this `MANIFEST.md`), 5,007,103 bytes.**
+
+Note: the README's "26 files" figure for archive v1.1 counts this manifest; the 25 rows above cover every other deposited file.
