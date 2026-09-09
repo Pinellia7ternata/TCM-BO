@@ -1,15 +1,20 @@
 cff-version: 1.2.0
 message: "If you use TCM-BO, please cite it as below."
-title: "TCM-BO: a bilingual ontology of traditional Chinese medicine body structures aligned with ICD-11, FMA and SNOMED CT"
+title: "A bilingual ontology of traditional Chinese medicine body structures aligned with ICD-11, FMA and SNOMED CT"
+abstract: "TCM-BO is a bilingual (Chinese-English) OWL 2 DL ontology of traditional Chinese medicine body structures, aligned with ICD-11, FMA and SNOMED CT. It formalises TCM-specific structural relations that have no biomedical analogue, supplies an auditable typed cross-terminology mapping layer, and documents a reproducible quality-control, mapping-audit and label-governance methodology."
 version: 1.9.17
-date-released: 2026-09-03
+date-released: 2026-09-08
 license: CC-BY-4.0
+repository-code: "https://github.com/Pinellia7ternata/TCM-BO"
 url: "http://OntoTCM.org.cn/ontologies/TCM_TO"
 identifiers:
-  - description: "Zenodo archive DOI of release 1.9.17"
+  - description: "Zenodo concept DOI - always resolves to the latest version of this record"
     type: doi
-    value: "10.5281/zenodo.22638644"
-  - description: "Version IRI of this release"
+    value: "10.5281/zenodo.22638643"
+  - description: "Zenodo version DOI of archive version 1.1 (release 1.9.17 files)"
+    type: doi
+    value: "10.5281/zenodo.22657052"
+  - description: "Version IRI of release 1.9.17"
     type: url
     value: "http://OntoTCM.org.cn/ontologies/TCM_TO/1.9.17"
 authors:
